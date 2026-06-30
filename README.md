@@ -1,4 +1,3 @@
-# ProofSignal: Cloud-native ProofSignal analyzer implementing distributed automated data ingestion with enterprise-grade data quality assurance capabilities Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
 Cloud-native ProofSignal analyzer implementing distributed automated data ingestion with enterprise-grade data quality assurance capabilities.
